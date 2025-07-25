@@ -39,8 +39,7 @@ ad6 = {
 }
 
 ads = [ad1,ad3,ad4,ad5]
-roliVeri = ""
-cookies = {"_RoliVerification":roliVeri}
+cookies = {"_RoliVerification":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoxLCJwbGF5ZXJfZGF0YSI6eyJuYW1lIjoiQmVubnlkb2VzX3N0dWZmIiwiaWQiOjQ5MTI0NjUwNX0sImlhdCI6MTc1MDExNTgxNiwiZXhwIjoxNzU3ODkxODc2fQ.C4Xxv3w_ww6u3Wx-vEXm_FYE7RhBBFWrzKraqKY55mg"}
 constWaitTime = 60*30
 failWaitTime = 60
 
